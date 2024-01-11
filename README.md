@@ -21,7 +21,7 @@ This project is a simple multiplication quiz implemented using HTML, CSS, and Ja
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/multiply-quiz.git
+   https://github.com/WaqasArshad97/Multipy-Quiz-s.git
 ## Video Demo :
 
 https://github.com/WaqasArshad97/DigitalClock/assets/140519770/c471db2b-09c4-4660-8140-ea065ebaf88a
